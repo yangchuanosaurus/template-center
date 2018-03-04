@@ -1,0 +1,12 @@
+---
+template-center: http://center.code-template.org
+name: template-android-hello
+version-string: 1.0.0
+version:
+- 1
+- 0
+- 0
+vocabulary:
+  copy:
+    source:
+    - template/src/main/java/template/android
