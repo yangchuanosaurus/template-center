@@ -9,4 +9,4 @@ version:
 vocabulary:
   copy:
     source:
-    - template/src/main/java/template/android
+    - template/src/main/java
